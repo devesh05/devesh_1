@@ -5,11 +5,11 @@ printf("enter a character");
 scanf("%c",&r);
 if(r=='a'||r=='e'||r=='i'||r=='o'||r=='u')
   {
-  printf("vowels");
+  printf("vowel");
   }
 else
  {
- printf("contants");
+ printf("contant");
  }
 
 }
